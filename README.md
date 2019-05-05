@@ -1,1 +1,1 @@
-# reading_papers2019
+some papers about gcn I have read in 2019
